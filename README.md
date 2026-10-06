@@ -6,8 +6,11 @@
 
 ## ☎ Contact
 
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/10O0O0O0OOO0OO0OO0/)
 [![Mail](https://img.shields.io/badge/mail-carohuza%40gmail.com-dd4336?style=for-the-badge&logo=gmail)](mailto:carohuza@gmail.com)
 [![Discord](https://img.shields.io/badge/daanticraest-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/628383967099355136)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/da_anticraest/?hl=es)
+
 
 ## 📊 Stats
 
