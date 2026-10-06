@@ -11,7 +11,7 @@
 
 ## 📊 Stats
 
-Powered by [Amgelo563](https://github.com/Amgelo563)
+Powered by [Amgelo563](https://github.com/Amgelo563).
 
 <table cellspacing="0" cellpadding="0">
   <tr>
