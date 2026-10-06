@@ -1,8 +1,6 @@
-## 👋🏽 Hello, I'm Angelo
+## 👋🏽 Hell
 
-I'm a 🇵🇪 Peruvian developer and university student.
-
-- 💬 My native language is Spanish, and I later learned English. You might sometimes see me participating in translation projects.
+- 💬 Native language is Spanish, later learned English.
 - 🎓 Currently studying **Informatics Engineering** at [PUCP](https://www.pucp.edu.pe/en/).
 ---
 
